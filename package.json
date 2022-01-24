@@ -1,0 +1,23 @@
+{
+  "name": "test-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests passed.\" && exit 0",
+    "publish": "echo \"Publishing passed.\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapirdata/test-gh-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapirdata/test-gh-actions/issues"
+  },
+  "homepage": "https://github.com/tapirdata/test-gh-actions#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
